@@ -1,8 +1,8 @@
 import React from 'react';
-import Calculator from './components/calculator';
+// import Calculator from './components/calculator';
 import Calsi from './components/Calsi';
 import Header from './components/Header';
-import Content from './components/Content';
+// import Content from './components/Content';
 
 
 
@@ -12,12 +12,12 @@ function App() {
         
       <Header />
       
-      
-      <Calculator />
-
-      <Content />
-      
       <Calsi />
+      {/* <Calculator />
+
+      <Content /> */}
+      
+    
 
      
     </div>
